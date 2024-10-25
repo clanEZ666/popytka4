@@ -31,4 +31,5 @@ public class Bird extends Animal {
     public void makeEat() {
         System.out.println(getName() + " питается семенами");
     }
+
 }

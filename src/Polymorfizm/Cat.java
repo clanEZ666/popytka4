@@ -14,4 +14,5 @@ public class Cat extends Animal {
     public void makeEat() {
         System.out.println(getName() + " питается рыбой");
     }
+
 }
